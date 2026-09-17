@@ -10,6 +10,6 @@ mode=whitelist
 # pesan yang tampil di panel member
 message=
 # daftar akun member (hash 12 karakter dari tools/hash_akun.py), satu per baris
-allow=
+allow=b6d219f6aaf9
 # akun yang diblokir
 block=
