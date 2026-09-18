@@ -1,6 +1,6 @@
 # File kontrol KJR v1 - diedit admin di GitHub
 # enabled: 1 = EA boleh jalan, 0 = hentikan semua EA
-enabled=0
+enabled=1
 # action saat tidak diizinkan: stop_entry (aman, basket dibiarkan tutup normal) atau close_all (darurat)
 action=close_all
 # versi minimal yang boleh jalan
