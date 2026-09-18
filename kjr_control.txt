@@ -1,8 +1,8 @@
 # File kontrol KJR v1 - diedit admin di GitHub
 # enabled: 1 = EA boleh jalan, 0 = hentikan semua EA
-enabled=1
+enabled=0
 # action saat tidak diizinkan: stop_entry (aman, basket dibiarkan tutup normal) atau close_all (darurat)
-action=stop_entry
+action=close_all
 # versi minimal yang boleh jalan
 min_version=1.04
 # whitelist = hanya akun di daftar allow, all = semua akun Tickmill
